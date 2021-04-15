@@ -1,0 +1,16 @@
+//
+// Created by kouic on 2021/04/15.
+//
+
+#ifndef ANIMATIONAPPLICATION_NATIVEOBJECT_H
+#define ANIMATIONAPPLICATION_NATIVEOBJECT_H
+
+
+
+class NativeObject {
+
+};
+
+
+
+#endif //ANIMATIONAPPLICATION_NATIVEOBJECT_H
